@@ -1,0 +1,82 @@
+.card-carrusel {
+    display: flex;
+}
+
+.front-end-card {
+    border-style: solid;
+    border-color: cyan;
+}
+
+.front-end-card img {
+    border-color: cyan;
+}
+
+.back-end-card {
+    border-style: solid;
+    border-color: #00c86f;
+}
+
+.back-end-card img {
+    border-color: #00c86f;
+}
+
+.innovacion-gestion-card {
+    border-style: solid;
+    border-color: #ffba05;
+}
+.innovacion-gestion-card img {
+    border-color: #ffba05;
+}
+
+.video-card {
+    flex-wrap: nowrap;
+    width: 300px; /* Ajusta el tamaño según tus necesidades */
+    border: 1px solid;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 1px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.video-card:hover {
+    transform: scale(1.1);
+}
+
+.video-card img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    border-style: solid;
+}
+
+.card-buttons {
+    display: flex;
+    justify-content: space-around;
+    padding: 8px;
+}
+
+.card-buttons button {
+    width: 100%;
+    color: white;
+    background-color: black;
+    border-style: solid;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.card-buttons button:hover {
+    background-color: #333;
+}
+
+.video-card-title {
+    margin: 0;
+    font-size: 12px;
+}
+
+@media (max-width: 768px) {
+}

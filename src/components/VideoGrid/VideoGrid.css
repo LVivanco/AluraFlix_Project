@@ -1,0 +1,41 @@
+.videos-container {
+    display: flex;
+    flex-direction: column;
+    margin: 1.5rem;
+}
+
+.button-categoria-grid {
+    width: 25%;
+    color: white;
+    padding: 0.5rem 0.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+.front-end {
+    background-color: cyan;
+}
+
+.back-end {
+    background-color: #00c86f;
+}
+.innovacion-gestion {
+    background-color: #ffba05;
+}
+
+.video-grid {
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    gap: 20px;
+    padding: 20px;
+}
+
+.video-grid::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+@media (max-width: 768px) {
+}

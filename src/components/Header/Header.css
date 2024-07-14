@@ -1,0 +1,36 @@
+.header {
+    background-color: #333;
+    height: 30rem;
+    color: #fff;
+    background-image: url("../../assets/banner.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header div {
+    margin: 1rem;
+}
+
+.header-titulo {
+    text-align: left;
+}
+
+.button-categoria {
+    color: white;
+    background-color: cyan;
+    padding: 0.5rem 5rem;
+    border-radius: 10rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+@media (max-width: 480px) {
+    .header {
+        display: flex;
+        flex-direction: column;
+    }
+}

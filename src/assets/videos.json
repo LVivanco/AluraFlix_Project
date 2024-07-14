@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.etatvasoft.com/blog/wp-content/uploads/2023/05/React-Fundamentals.jpg",
+        "title": "React Basics",
+        "category": "front-end"
+    },
+    {
+        "id": 2,
+        "image": "https://web-crunch.s3.us-east-2.amazonaws.com/uploads/post/feature_image/83/advanced-css-selectors.png",
+        "title": "Advanced CSS",
+        "category": "front-end"
+    },
+    {
+        "id": 3,
+        "image": "/path/to/image3.jpg",
+        "title": "JavaScript ES6",
+        "category": "front-end"
+    },
+    {
+        "id": 4,
+        "image": "/path/to/image4.jpg",
+        "title": "HTML & CSS",
+        "category": "front-end"
+    },
+    {
+        "id": 5,
+        "image": "/path/to/image5.jpg",
+        "title": "Vue.js Fundamentals",
+        "category": "front-end"
+    },
+    {
+        "id": 6,
+        "image": "/path/to/image6.jpg",
+        "title": "Introduction to TypeScript",
+        "category": "front-end"
+    },
+    {
+        "id": 7,
+        "image": "https://miro.medium.com/v2/resize:fit:1400/1*djs41LAhXT2CsokWjtofRQ.png",
+        "title": "Node.js Fundamentals",
+        "category": "back-end"
+    },
+    {
+        "id": 8,
+        "image": "https://miro.medium.com/v2/resize:fit:1400/1*q6b32yNdlpyQjDZlAc1QEg.png",
+        "title": "Express.js Guide",
+        "category": "back-end"
+    },
+    {
+        "id": 9,
+        "image": "/path/to/image9.jpg",
+        "title": "Database Management with SQL",
+        "category": "back-end"
+    },
+    {
+        "id": 10,
+        "image": "/path/to/image10.jpg",
+        "title": "Building RESTful APIs",
+        "category": "back-end"
+    },
+    {
+        "id": 11,
+        "image": "/path/to/image11.jpg",
+        "title": "Introduction to Django",
+        "category": "back-end"
+    },
+    {
+        "id": 12,
+        "image": "/path/to/image12.jpg",
+        "title": "Spring Boot Basics",
+        "category": "back-end"
+    },
+    {
+        "id": 13,
+        "image": "https://www.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/project%20management%20basics_112022-3.jpeg?width=600&height=338&name=project%20management%20basics_112022-3.jpeg",
+        "title": "Project Management Basics",
+        "category": "innovacion-gestion"
+    },
+    {
+        "id": 14,
+        "image": "https://assets.asana.biz/transform/f3519623-44e4-4506-8e1f-38cb74819c58/inline-agile-agile-methodology-1-2x",
+        "title": "Agile Methodologies",
+        "category": "innovacion-gestion"
+    },
+    {
+        "id": 15,
+        "image": "/path/to/image15.jpg",
+        "title": "Design Thinking",
+        "category": "innovacion-gestion"
+    },
+    {
+        "id": 16,
+        "image": "/path/to/image16.jpg",
+        "title": "Leadership and Team Management",
+        "category": "innovacion-gestion"
+    },
+    {
+        "id": 17,
+        "image": "/path/to/image17.jpg",
+        "title": "Change Management",
+        "category": "innovacion-gestion"
+    },
+    {
+        "id": 18,
+        "image": "/path/to/image18.jpg",
+        "title": "Strategic Innovation",
+        "category": "innovacion-gestion"
+    }
+]
