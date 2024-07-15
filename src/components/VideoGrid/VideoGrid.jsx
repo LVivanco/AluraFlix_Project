@@ -1,6 +1,6 @@
 // src/components/VideoGrid/VideoGrid.jsx
 import React from "react";
-import Card from "../VideoCard/VideoCard";
+import Card from "../VideoCard/VideoCard.jsx";
 import "./VideoGrid.css";
 
 const VideoGrid = ({ videos, categoria, onEdit, onDelete }) => {

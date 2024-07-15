@@ -6,8 +6,7 @@ import Footer from "../components/Footer/Footer";
 import EditModal from "../components/EditModal/EditModal";
 import AddModal from "../components/AddModal/AddModal";
 import Header from "../components/Header/Header";
-import videosData from "../assets/videos.json";
-
+import videosData from "../../public/videos.json";
 import "./Home.css";
 
 const initialVideos = videosData;
